@@ -4,6 +4,8 @@
 
 The dataset has following 68 variables.
 
+ | Label | data | variables |
+ | --- | --- | --- |
  | ACTIVITY | 6 activity names | WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING | 
  | SUBJECT | the subject who performed the activity | Its range is from 1 to 30 | 
  | tBodyAcc-mean()-X | original data |  |  
