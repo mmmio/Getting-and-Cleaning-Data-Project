@@ -51,4 +51,4 @@ for(i in 1:30){
     data5 <- rbind(data5, data4)
 }
 
-write.table(data5, file="tidymean.txt", quote=FALSE)
+write.table(data5, file="tidymean.txt", quote=FALSE, row.names = FALSE)
